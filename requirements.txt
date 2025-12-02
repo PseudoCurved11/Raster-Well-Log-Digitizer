@@ -1,0 +1,43 @@
+# Core ML & Deep Learning
+torch
+torchvision
+torchaudio
+
+# Image Processing
+opencv-python
+Pillow
+scikit-image
+
+# Data Handling
+numpy
+pandas
+pyyaml
+
+# LAS File Parsing
+lasio
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook Support
+jupyter
+ipykernel
+
+# Model Evaluation
+scikit-learn
+
+# API Deployment (choose depending on your style)
+fastapi
+uvicorn[standard]
+
+# OR UI app
+streamlit
+gradio
+
+# Utilities
+tqdm
+python-dotenv
+
+# Optional: TensorBoard for experiment tracking
+tensorboard
